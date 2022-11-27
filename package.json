@@ -30,6 +30,8 @@
   "type": "module",
   "dependencies": {
     "@rollup/plugin-dsv": "^2.0.2",
-    "layercake": "^7.0.0"
+    "d3-scale-chromatic": "^3.0.0",
+    "layercake": "^7.0.0",
+    "purecss": "^3.0.0"
   }
 }
