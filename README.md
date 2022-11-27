@@ -1,16 +1,12 @@
-Layer Cake Example
-===
+# Circular Bar Chart Component with Svelte
 
-This is a starter example for using [Layer Cake](https://layercake.graphics). It sets you up with the line and area chart as seen [in the examples](https://layercake.graphics/example/Line). 
+This is a little demo of a circular bar chart, built using Svelte, [Layer Cake](https://layercake.graphics) and a little D3.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+![Circular bar chart component](./static/circular-bar-chart-svelte.png)
 
-```bash
-npx degit mhkeller/layercake-template my-chart
-cd my-chart
-```
+Layer Cake provides some handy charting utilities and a drawing context that makes it easier to create rich, extensible and composable components.
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+_Note that you will need to have [Node.js](https://nodejs.org) installed._
 
 ## Get started
 
