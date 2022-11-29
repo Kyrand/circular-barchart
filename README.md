@@ -4,8 +4,6 @@ This is a little demo of a circular bar chart, built using Svelte, [Layer Cake](
 
 ![Circular bar chart component](./static/circular-bar-chart-svelte.png)
 
-[Circular bar chart component](static/circular_bar_chart.m4v)
-
 Layer Cake provides some handy charting utilities and a drawing context that makes it easier to create rich, extensible and composable components.
 
 _Note that you will need to have [Node.js](https://nodejs.org) installed._
